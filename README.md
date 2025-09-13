@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# 👨‍⚕️ Junaid Farooq, M.D - Healthcare AI Specialist
+# 👨‍⚕️ Junaid Farooq, M.D - 
 
-### Board Certified Internal Medicine | Infectious Diseases Consultant | MBA Candidate | Healthcare AI Expert
+### Board Certified Internal Medicine | Infectious Diseases Consultant | MBA Candidate | Healthcare AI Expert | Organizational Ai Trainer |
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jfmdid">
