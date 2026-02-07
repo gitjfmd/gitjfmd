@@ -16,9 +16,7 @@
   <a href="https://www.facebook.com/jfmdid">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://manus.im">
-    <img src="https://img.shields.io/badge/Manus-Super_User-FF6B35?style=for-the-badge&logo=robot&logoColor=white" alt="Manus Super User"/>
-  </a>
+  
 </p>
 
 </div>
