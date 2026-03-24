@@ -112,7 +112,7 @@ My mission is to develop and promote accessible AI technologies that:
 
 ## 🌐 Projects & Websites
 
-### 🏥 [JFMD.US](https://jfmd.us)
+### 🏥 [JFMD.DEV](https://jfmd.dev)
 *Exploring the intersection of medicine and technology*
 - Healthcare AI research and development
 - Medical technology innovation
@@ -201,9 +201,9 @@ My mission is to develop and promote accessible AI technologies that:
   </a>
 </p>
 
-📧 **Email**: | hellogit@jfmd.us | [Contact via LinkedIn](https://www.linkedin.com/in/jfmdid)
-🌐 **Website**: [JFMD.US](https://jfmd.us)
-🔒 **CyberSecurity Solutions | AppDev | WebDev**: [SECSOLS.net](https://secsols.net)
+📧 **Email**: | dev@jfmd.dev | [Contact via LinkedIn](https://www.linkedin.com/in/jfmdid)
+🌐 **Website**: [JFMD.DEV](https://jfmd.DEV)
+🔒 **CyberSecurity Solutions | AppDev | WebDev**: [SECSOLS.net](https://secsols.io)
 
 </div>
 
